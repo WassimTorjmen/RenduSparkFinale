@@ -1,0 +1,17 @@
+.idea/
+*.iml
+data/
+__pycache__/
+.DS_Store
+out
+dist
+.pytest_cache
+.terraform*
+terraform.*
+exo0.md
+exo1.md
+exo2.md
+exo3.md
+exo4.md
+exo5.md
+resources/
